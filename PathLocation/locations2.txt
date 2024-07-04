@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\IRSystem\Tokenized\aiANDfuture.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Algorithems.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Animal.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\computerANDphone.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Economy.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Ethiopian.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\MachineAlgorithem.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\machineANDEthiopia.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\machineANDhuman.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\MachineLearning.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Nature.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Philosophy.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\QuantumMechanices.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\Religion.txt
+C:\Users\HP\Desktop\IRSystem\Tokenized\science.txt
